@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Spotify clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Spotify clone"
+	}
+}
